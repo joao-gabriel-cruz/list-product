@@ -11,7 +11,7 @@ function App() {
   }, []);
 
   return (
-    <div className="w-full h-screen flex justify-center items-center ">
+    <div className="w-full h-screen flex justify-center items-center my-[4rem] ">
       <ListaProdutos produtos={produtos} />
     </div>
   );

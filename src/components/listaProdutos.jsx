@@ -2,7 +2,7 @@ function ListaProdutos(props) {
   console.log(props.produtos);
 
   return (
-    <div className="bg-sky-100 flex-col space-y-5 p-5 rounded-xl">
+    <div className="bg-sky-100 flex-col space-y-5 p-5 rounded-xl  ">
       <div className="text-center">
         <h1 className="text-4xl">Produtos</h1>
       </div>
